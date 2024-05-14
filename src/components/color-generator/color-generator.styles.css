@@ -1,0 +1,10 @@
+.colour-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5rem;
+  align-items: "center";
+  color: #fff;
+  font-size: 10rem;
+  margin-top: 10rem;
+}
